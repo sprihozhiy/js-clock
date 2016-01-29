@@ -33,20 +33,21 @@ body {
   width: 2px;
   position: absolute;
   left: 50%;
+  transform-origin: bottom;
 }
 
-.sec {
+#sec {
   height: 80px;
   top: 10%;
 }
 
-.min {
-  height: 60px;
-  top: 20%;
+#min {
+  height: 65px;
+  top: 18%;
   width: 4px;
 }
 
-.hr {
+#hr {
   height: 50px;
   top: 25%;
   width: 6px;
