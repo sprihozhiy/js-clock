@@ -1,3 +1,3 @@
 # js-clock
 
-Vanilla JavaScript Clock
+JavaScript Clock
